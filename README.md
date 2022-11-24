@@ -1,4 +1,5 @@
 - 👩‍🏫 Olá, sou @kfribeiro
 - 👀 Estou interessada em aprender a programar
 - 🌱 Estou aprendendo HTML+CSS
+- 📓 Compartilho aventuras no mundo UX no [Medium](https://medium.com/@katieribeiro)
 - 📫 Me encontre em: katie.ribeiro@escola.pr.gov.br
